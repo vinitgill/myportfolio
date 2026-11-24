@@ -54,7 +54,7 @@ export const config: TConfig = {
   socials: [
     { label: "GitHub", href: "https://github.com/vinitgill" },
     { label: "LinkedIn", href: "https://linkedin.com/in/vinitgill" },
-    { label: "LeetCode", href: "https://leetcode.com/u/vinitgill_o4" },
+    { label: "LeetCode", href: "https://leetcode.com/u/vinitgill_04" },
     { label: "HackerRank", href: "https://hackerrank.com/profile/vinitgill048" },
     { label: "Instagram", href: "https://instagram.com/vinitgill_04" },
   ],
