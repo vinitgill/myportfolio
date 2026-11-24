@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="460" viewBox="0 0 600 460">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d1836"/><stop offset="1" stop-color="#050816"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.15" r="0.6"><stop offset="0" stop-color="#915EFF" stop-opacity="0.55"/><stop offset="1" stop-color="#915EFF" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="460" fill="url(#g)"/><rect width="600" height="460" fill="url(#r)"/>
+<g stroke="#915EFF" stroke-opacity="0.18"><path d="M0 100H600M0 200H600M0 300H600M0 400H600M100 0V460M200 0V460M300 0V460M400 0V460M500 0V460"/></g>
+<text x="40" y="250" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Object Detection</text><text x="40" y="314" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#ffffff">& Tracking</text></svg>
